@@ -5,7 +5,7 @@ chardet==3.0.4
 idna==2.7
 more-itertools==4.3.0
 pluggy==0.8.0
-py==1.7.0
+py==1.10.0
 pytest==3.9.3
 pytest-html==1.19.0
 pytest-metadata==1.7.0
